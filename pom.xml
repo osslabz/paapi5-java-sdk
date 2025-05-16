@@ -313,7 +313,7 @@
                         <configuration>
                             <tasks>
                                 <mkdir dir="${project.build.outputDirectory}" />
-                                <unzip src="lib/paapi5-java-sdk-1.2.2.jar.jar" dest="${project.build.outputDirectory}" />
+                                <unzip src="lib/paapi5-java-sdk-1.2.2.jar" dest="${project.build.outputDirectory}" />
                             </tasks>
                         </configuration>
                     </execution>
