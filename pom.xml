@@ -201,7 +201,7 @@
         <dependency>
             <groupId>io.swagger</groupId>
             <artifactId>swagger-annotations</artifactId>
-            <version>1.5.15</version>
+            <version>1.6.16</version>
         </dependency>
 
         <!-- ThreeTen BP -->
