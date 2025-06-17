@@ -180,7 +180,7 @@
         <dependency>
             <groupId>com.squareup.okio</groupId>
             <artifactId>okio</artifactId>
-            <version>1.6.0</version>
+            <version>3.13.0</version>
         </dependency>
 
         <!-- StAX API -->
