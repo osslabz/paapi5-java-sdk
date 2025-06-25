@@ -7,7 +7,8 @@
     <version>0.0.2-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
-    <description />
+
+    <description>Repackaged version of Amazon's Product Advertising API 5.0 Java SDK</description>
     <url>https://github.com/osslabz/paapi5-java-sdk</url>
 
     <properties>
@@ -32,6 +33,12 @@
     </licenses>
 
     <developers>
+        <developer>
+            <name>Amazon Product Advertising API Team</name>
+            <organization>Amazon</organization>
+            <organizationUrl>https://github.com/amzn</organizationUrl>
+        </developer>
+
         <developer>
             <name>Raphael Vullriede</name>
             <email>raphael@osslabz.net</email>
