@@ -5,7 +5,7 @@
 
     <groupId>net.osslabz</groupId>
     <artifactId>paapi5-java-sdk</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>1.2.2-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
 
