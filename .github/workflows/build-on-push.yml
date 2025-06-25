@@ -25,6 +25,3 @@ jobs:
 
       - name: maven-build-verify
         run: mvn --batch-mode --update-snapshots clean verify
-
-      - name: upload-snapshot-to-maven-central
-        run: mvn --batch-mode deploy
