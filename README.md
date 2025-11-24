@@ -18,7 +18,7 @@ Maven
 <dependency>
     <groupId>net.osslabz</groupId>
     <artifactId>paapi5-java-sdk</artifactId>
-    <version>1.2.2</version>
+    <version>1.2.4</version>
 </dependency>
 ```
 
