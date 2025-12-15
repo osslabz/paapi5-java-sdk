@@ -186,7 +186,7 @@
         <dependency>
             <groupId>com.squareup.okio</groupId>
             <artifactId>okio</artifactId>
-            <version>1.6.0</version>
+            <version>3.16.4</version>
         </dependency>
 
         <!-- StAX API -->
