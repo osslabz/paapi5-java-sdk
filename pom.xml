@@ -4,7 +4,7 @@
 
     <groupId>net.osslabz</groupId>
     <artifactId>paapi5-java-sdk</artifactId>
-    <version>1.2.4-SNAPSHOT</version>
+    <version>1.2.6-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
 
@@ -18,7 +18,7 @@
         <project.build.sourceEncoding>${osslabz.encoding}</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${osslabz.encoding}</project.reporting.outputEncoding>
 
-        <project.build.outputTimestamp>2025-06-25T09:25:40Z</project.build.outputTimestamp>
+        <project.build.outputTimestamp>2025-12-15T09:47:15Z</project.build.outputTimestamp>
 
         <maven.compiler.release>${osslabz.java.version}</maven.compiler.release>
 
