@@ -2,7 +2,7 @@ Amazon Product Advertising API 5.0 Java SDK (unofficial)
 ===============
 ![GitHub](https://img.shields.io/github/license/osslabz/paapi5-java-sdk)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/paapi5-java-sdk/build-on-push.yml?branch=dev&label=build&logo=git)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/paapi5-java-sdk/build-release-on-main-push.yml?branch=main&label=perform-release&logo=semanticrelease)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/osslabz/paapi5-java-sdk/release.yml?branch=dev&label=perform-release&logo=semanticrelease)
 [![Reproducible Builds](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jvm-repo-rebuild/reproducible-central/master/content/net/osslabz/paapi5-java-sdk/badge.json)](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/net/osslabz/paapi5-java-sdk/README.md)
 [![Maven Central](https://img.shields.io/maven-central/v/net.osslabz/paapi5-java-sdk?label=Maven%20Central)](https://search.maven.org/artifact/net.osslabz/paapi5-java-sdk)
 
