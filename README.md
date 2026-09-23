@@ -10,6 +10,10 @@ An unofficial repackaged version of Amazon's Product Advertising API 5.0 Java SD
 
 This jar carries Amazon's SDK 1.2.4 classes byte for byte and adds no code of its own, so it has no tests. Version 1.2.5 reached Maven Central on 2025-12-15 with that same content, and two other projects of mine build against it.
 
+Status
+------
+
+Amazon deprecated PA-API 5 on 2026-04-30 and retired it on 2026-05-15. Version 1.2.4, already repackaged here, is the last upstream SDK release that will ever exist. This repo is therefore frozen and no longer takes dependency updates.
 
 This project make the original SDK available on Maven Central with the following coordinates:
 
